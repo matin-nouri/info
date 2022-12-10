@@ -13,6 +13,8 @@ This is free Competition and you can use __every program you want.__
 ### Keepaway League
 as you know we have a league that called __Keepaway__ that means player need to play in a square and opponent want chase ball, you must control ball and do not shoot or pass it to out of square.
 
+> ___You can use Every Base do you want in this league.___
+
 ### Jiling League
 in this league you need to use __Jiling Base__ for participenting in this league.
 
