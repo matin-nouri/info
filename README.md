@@ -1,3 +1,5 @@
+theme: minima
+
 # a Robocup Soccer2D Free Association
 This Group is Shared Lab for __Shadow Quantum__ and __Robo2D__ Group
 It is Free, that means you can join it for free!
