@@ -15,12 +15,6 @@ as you know we have a league that called __Keepaway__ that means player need to 
 
 > ___You can use Every Base do you want in this league.___
 
-### Jiling League
-in this league you need to use __Jiling Base__ for participenting in this league.
-
-### Klug League
-in this league you need to use __Klug Base__ for participenting in this league.
-
 ### Callidus League
 in this league you need to use __Callidus Base__ for participenting in this league.
 
