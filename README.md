@@ -19,4 +19,16 @@ in this league you need to use Jiling Base for participenting in this league.
 ### Klug League
 in this league you need to use Klug Base for participenting in this league.
 
-## Free Challange Every 3 Month!
+### Callidus League
+in this league you need to use Callidus Base for participenting in this league.
+
+### Senior League
+in this league you can only use STD_BASE (iranopen Robocup standard base for senior leagues)
+and Server will runs in FullState Mode.
+
+## Robocup Soccer Simulation 2D Training
+you will learn how to code and participenting in this League and the other Leagues.
+
+## Q&A
+Teams that join the community can pose their own problems to address it.
+
