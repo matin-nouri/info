@@ -32,3 +32,9 @@ you will learn how to code and participenting in this League and the other Leagu
 ## Q&A
 Teams that join the community can pose their own problems to address it.
 
+## How to Join RSQ LC?
+you need to email your information with below form to rsqlcgroup@gmail.com
+
+[TeamName]
+[Leader]
+[Member Name] [Member Age]
