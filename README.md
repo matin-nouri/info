@@ -5,7 +5,7 @@ It is Free, that means you can join it for free!
 
 ## Free Challange Every 3 Month!
 The group holds a competition every __3 month__.
-Top ranks will place in this website.
+Top ranks will place in [this website](https://rsqlcgroup.github.io/Competitions/ "RSQ LC").
 
 ### Junior League
 This is free Competition and you can use __every program you want.__
