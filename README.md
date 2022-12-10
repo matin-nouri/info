@@ -35,6 +35,8 @@ Teams that join the community can pose their own problems to address it.
 ## How to Join RSQ LC?
 you need to email your information with below form to rsqlcgroup@gmail.com
 
-[TeamName]
-[Leader]
-[Member Name] [Member Age]
+{TeamName}
+{Leader}
+{Member Name} {Member Age} {Phone Number [whatsapp and telegram number] } {email} {github account} {Discord ID}
+
+
